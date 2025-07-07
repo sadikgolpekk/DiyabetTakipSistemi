@@ -1,6 +1,6 @@
 # 🩺 Diyabet Takip Sistemi (Diabetes Monitoring System)
 
-![Giriş Ekranı](![Image](https://github.com/user-attachments/assets/7fef6433-da6b-41b2-b0db-65f13fcf5685))
+![Image](https://github.com/user-attachments/assets/7fef6433-da6b-41b2-b0db-65f13fcf5685)
 
 Bu proje, diyabet hastalarının günlük kan şekeri ölçümlerini kaydedebileceği ve doktorlarıyla paylaşabileceği **Python** tabanlı masaüstü bir uygulamadır. Modern bir kullanıcı arayüzü, güvenli şifreleme, rol tabanlı erişim kontrolü ve grafiksel analiz özellikleri sunar.
 
