@@ -80,6 +80,10 @@ def KuralTabanliOneri(seviye, belirtiler):
 
 ---
 
+![Image](https://github.com/user-attachments/assets/a138142e-d592-4beb-90c4-8879c5569fb1)
+
+
+
 ## 📚 Kaynakça
 
 1. [Python Resmi Belgeleri](https://docs.python.org/)
