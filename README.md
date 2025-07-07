@@ -32,7 +32,7 @@ Bu proje, diyabet hastalarının günlük kan şekeri ölçümlerini kaydedebile
 
 ## 🗃️ Veritabanı Yapısı (ER Diyagram)
 
-![Veritabanı Şeması](assets/db_schema.png)
+![Image](https://github.com/user-attachments/assets/645a9d02-4fc8-4e15-9ebe-c5bbfa0f023a)
 
 - `Kullanici`: Ortak kullanıcı yapısı (hasta/doktor)
 - `Doktor`: KullaniciID ile bağlı
