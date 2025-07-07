@@ -72,21 +72,6 @@ def KuralTabanliOneri(seviye, belirtiler):
 
 ---
 
-## 📂 Proje Yapısı
-
-```
-📁 DiyabetTakipSistemi
- ┣ 📂 assets               → Görseller ve şema
- ┣ 📂 database             → SQL dump dosyaları
- ┣ 📜 main.py              → Uygulama giriş noktası
- ┣ 📜 login.py             → Giriş paneli
- ┣ 📜 doktor_panel.py      → Doktor arayüzü
- ┣ 📜 hasta_panel.py       → Hasta arayüzü
- ┣ 📜 utils.py             → Yardımcı fonksiyonlar
- ┗ 📜 README.md            → Bu dosya
-```
-
----
 
 ## 👨‍💻 Geliştiriciler
 
