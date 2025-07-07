@@ -82,7 +82,7 @@ def KuralTabanliOneri(seviye, belirtiler):
 
 ![Image](https://github.com/user-attachments/assets/a138142e-d592-4beb-90c4-8879c5569fb1)
 
-
+![Image](https://github.com/user-attachments/assets/e1922ab0-623f-4944-9300-c637295f8546)
 
 ## 📚 Kaynakça
 
